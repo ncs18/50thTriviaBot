@@ -1,0 +1,5 @@
+What color is the sky?blue
+What color is the grass?green
+What color is the dirt?brown
+What color is a banana?yellow
+What color is ketchup?red
