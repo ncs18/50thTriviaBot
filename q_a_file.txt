@@ -1,5 +1,15 @@
-What color is the sky?blue
-What color is the grass?green
-What color is the dirt?brown
-What color is a banana?yellow
-What color is ketchup?red
+Who is the current US president?joe biden
+What is the nickname of the MQ-9?reaper
+What is the capitol of Connecticut?hartford
+What is the capitol of Texas?austin
+What is the largest mammal?blue whale
+Who is the CEO of Tesla?elon musk
+What is the name of the tv show with a yellow sponge and pink starfish?spongebob squarepants
+Boldface for Engine Fire/RPM Decay on the Ground?condition lever-aft
+Who programmed this bot?noah sternat
+Which country consumes the most chocolate per capita?switzerland
+What is the loudest animal on Earth?sperm whale
+What is the tiny piece at the end of a shoelace called?aglet
+What is the world’s biggest island?greenland
+What is the smallest ocean in the world?arctic
+Which planet is the hottest in the solar system?venus
